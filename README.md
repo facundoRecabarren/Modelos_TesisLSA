@@ -20,3 +20,5 @@ Al final de todo se encuentran distintos tipos de pruebas realizadas, tambien pr
 [Link a los datos de videos ya procesados](https://drive.google.com/file/d/1Q1A94UmeEYExCOpjysJc996Ozx8jX9Ao/view?usp=share_link). 
 Este .zip contiene un archivo .npy para cada video, cada archivo consituye un arreglo de 201 frames, donde algunos videos pasaron por una instancia de
 padding (valor 3 a la derecha del arreglo) para alcanzar la longitud de 201.
+
+Para poder ejecutar la Notebook "Modelos.ipynb" es necesario tener el .zip descargado y descomprimido, se recomienda descomprimir en una carpeta "LSA64_data" para evitar  tener que modificar la ruta en el codigo.
