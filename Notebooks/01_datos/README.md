@@ -1,0 +1,2 @@
+En la carpeta LSA64_data se almacenan los datos de los videos procesados que se encuentran en el siguiente (enlace).[https://drive.google.com/file/d/1Q1A94UmeEYExCOpjysJc996Ozx8jX9Ao/view]
+Con la ejecucion de "armado_parquet" se armará un Dataframe con esos datos.
