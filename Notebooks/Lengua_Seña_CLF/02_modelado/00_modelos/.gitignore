@@ -1,0 +1,4 @@
+# Ignorar todo dentro de este Folder excepto el archivo .gitignore (para subir esta carpeta al repositorio)
+*
+
+!.gitignore
